@@ -10,7 +10,7 @@
 
 # Descrição Analisador Léxico
 
-*As seguintes tarefas devem ser desenvolvidas neste trabalho prático:
+* As seguintes tarefas devem ser desenvolvidas neste trabalho prático:
 
 1. Modelar a tarefa do analisador léxico: tokens possíveis, expressões regulares utilizadas, formas de tratamento de erros (ver slides das aulas).
 
