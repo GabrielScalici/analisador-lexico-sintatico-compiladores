@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="http://ForTheBadge.com/images/badges/made-with-c.svg"/>
-  <img src="http://ForTheBadge.com/images/badges/made-with-lex.svg"/>
-  <img src="http://ForTheBadge.com/images/badges/made-with-yacc.svg"/>
 </p>
 
 # Descrição Analisador Léxico
