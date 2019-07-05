@@ -32,3 +32,30 @@
 
 3. Implementar o tratamento de erro usando o modo pânico, sempre relatando os erros para o usuário.
 
+
+# :file_folder: Organização das pastas
+
+    .
+    ├── ...
+    ├── test                     # Arquivos para testes no projeto
+    ├── MakeFile                 # Arquivo para facilitar a compilação do projeto e execução.
+    ├── Relatório                # Infos detalhadas do projeto
+    ├── main                     # Programa compilado
+    ├── lalg.l                   # programa Lex para a linguagem LALG
+    ├── lalg.y                   # programa em Bison para a linguagem LALG.
+    ├── ...
+    .
+    
+    
+# :cd: Como usar:
+
+### Compilar
+```
+make
+```
+
+### Testar
+```
+make run
+```
+
